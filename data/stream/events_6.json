@@ -1,0 +1,10 @@
+{"timestamp": "2026-06-01T18:32:37.298826+00:00", "user_id": "usr_0002", "user_city": "Lyon", "product_id": "prod_0030", "product_cat": "Vetements", "seller_id": "sel_0008", "action_type": "AIME", "price": 1248.24}
+{"timestamp": "2026-06-01T18:32:37.298884+00:00", "user_id": "usr_0040", "user_city": "Lille", "product_id": "prod_0021", "product_cat": "Vetements", "seller_id": "sel_0002", "action_type": "AIME", "price": 1363.0}
+{"timestamp": "2026-06-01T18:32:37.298892+00:00", "user_id": "usr_0034", "user_city": "Cergy", "product_id": "prod_0014", "product_cat": "Telephones", "seller_id": "sel_0006", "action_type": "AIME", "price": 1030.6}
+{"timestamp": "2026-06-01T18:32:37.298896+00:00", "user_id": "usr_0048", "user_city": "Toulouse", "product_id": "prod_0005", "product_cat": "Livres", "seller_id": "sel_0001", "action_type": "VOUT", "price": 1098.04}
+{"timestamp": "2026-06-01T18:32:37.298900+00:00", "user_id": "usr_0045", "user_city": "Bordeaux", "product_id": "prod_0011", "product_cat": "Telephones", "seller_id": "sel_0009", "action_type": "AIME", "price": 82.74}
+{"timestamp": "2026-06-01T18:32:37.298905+00:00", "user_id": "usr_0007", "user_city": "Marseille", "product_id": "prod_0023", "product_cat": "Livres", "seller_id": "sel_0001", "action_type": "AIME", "price": 1415.6}
+{"timestamp": "2026-06-01T18:32:37.298909+00:00", "user_id": "usr_0038", "user_city": "Toulouse", "product_id": "prod_0026", "product_cat": "Telephones", "seller_id": "sel_0010", "action_type": "VOUT", "price": 1166.3}
+{"timestamp": "2026-06-01T18:32:37.298912+00:00", "user_id": "usr_0049", "user_city": "Marseille", "product_id": "prod_0019", "product_cat": "Vehicules", "seller_id": "sel_0010", "action_type": "ACHAT", "price": 1129.58}
+{"timestamp": "2026-06-01T18:32:37.298916+00:00", "user_id": "usr_0027", "user_city": "Paris", "product_id": "prod_0009", "product_cat": "Meubles", "seller_id": "sel_0003", "action_type": "AIME", "price": 309.75}
+{"timestamp": "2026-06-01T18:32:37.298919+00:00", "user_id": "usr_0041", "user_city": "Lyon", "product_id": "prod_0030", "product_cat": "Livres", "seller_id": "sel_0005", "action_type": "AIME", "price": 1307.78}

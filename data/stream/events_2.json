@@ -1,0 +1,10 @@
+{"timestamp": "2026-06-01T18:32:17.284014+00:00", "user_id": "usr_0007", "user_city": "Lille", "product_id": "prod_0016", "product_cat": "Livres", "seller_id": "sel_0008", "action_type": "AIME", "price": 1736.13}
+{"timestamp": "2026-06-01T18:32:17.284110+00:00", "user_id": "usr_0007", "user_city": "Marseille", "product_id": "prod_0001", "product_cat": "Vetements", "seller_id": "sel_0009", "action_type": "ACHAT", "price": 1895.94}
+{"timestamp": "2026-06-01T18:32:17.284119+00:00", "user_id": "usr_0040", "user_city": "Bordeaux", "product_id": "prod_0026", "product_cat": "Telephones", "seller_id": "sel_0007", "action_type": "AIME", "price": 1688.6}
+{"timestamp": "2026-06-01T18:32:17.284125+00:00", "user_id": "usr_0035", "user_city": "Cergy", "product_id": "prod_0002", "product_cat": "Vetements", "seller_id": "sel_0003", "action_type": "AIME", "price": 92.31}
+{"timestamp": "2026-06-01T18:32:17.284132+00:00", "user_id": "usr_0031", "user_city": "Cergy", "product_id": "prod_0024", "product_cat": "Telephones", "seller_id": "sel_0005", "action_type": "VOUT", "price": 151.65}
+{"timestamp": "2026-06-01T18:32:17.284138+00:00", "user_id": "usr_0005", "user_city": "Toulouse", "product_id": "prod_0002", "product_cat": "Vetements", "seller_id": "sel_0008", "action_type": "AIME", "price": 1868.24}
+{"timestamp": "2026-06-01T18:32:17.284143+00:00", "user_id": "usr_0042", "user_city": "Lille", "product_id": "prod_0016", "product_cat": "Livres", "seller_id": "sel_0005", "action_type": "ACHAT", "price": 1730.77}
+{"timestamp": "2026-06-01T18:32:17.284150+00:00", "user_id": "usr_0016", "user_city": "Marseille", "product_id": "prod_0014", "product_cat": "Vetements", "seller_id": "sel_0008", "action_type": "AIME", "price": 1746.36}
+{"timestamp": "2026-06-01T18:32:17.284156+00:00", "user_id": "usr_0050", "user_city": "Lyon", "product_id": "prod_0018", "product_cat": "Vetements", "seller_id": "sel_0005", "action_type": "AIME", "price": 1972.23}
+{"timestamp": "2026-06-01T18:32:17.284161+00:00", "user_id": "usr_0044", "user_city": "Lille", "product_id": "prod_0025", "product_cat": "Vetements", "seller_id": "sel_0009", "action_type": "AIME", "price": 1538.18}

@@ -1,0 +1,10 @@
+{"timestamp": "2026-06-01T18:32:22.286013+00:00", "user_id": "usr_0026", "user_city": "Marseille", "product_id": "prod_0023", "product_cat": "Livres", "seller_id": "sel_0010", "action_type": "AIME", "price": 594.55}
+{"timestamp": "2026-06-01T18:32:22.286130+00:00", "user_id": "usr_0019", "user_city": "Toulouse", "product_id": "prod_0024", "product_cat": "Vetements", "seller_id": "sel_0002", "action_type": "AIME", "price": 139.03}
+{"timestamp": "2026-06-01T18:32:22.286141+00:00", "user_id": "usr_0014", "user_city": "Toulouse", "product_id": "prod_0028", "product_cat": "Vehicules", "seller_id": "sel_0002", "action_type": "AIME", "price": 1270.73}
+{"timestamp": "2026-06-01T18:32:22.286151+00:00", "user_id": "usr_0015", "user_city": "Paris", "product_id": "prod_0027", "product_cat": "Livres", "seller_id": "sel_0006", "action_type": "VOUT", "price": 806.55}
+{"timestamp": "2026-06-01T18:32:22.286160+00:00", "user_id": "usr_0046", "user_city": "Paris", "product_id": "prod_0012", "product_cat": "Sport", "seller_id": "sel_0001", "action_type": "VOUT", "price": 295.58}
+{"timestamp": "2026-06-01T18:32:22.286171+00:00", "user_id": "usr_0005", "user_city": "Bordeaux", "product_id": "prod_0006", "product_cat": "Vetements", "seller_id": "sel_0001", "action_type": "AIME", "price": 311.34}
+{"timestamp": "2026-06-01T18:32:22.286180+00:00", "user_id": "usr_0021", "user_city": "Cergy", "product_id": "prod_0030", "product_cat": "Livres", "seller_id": "sel_0002", "action_type": "AIME", "price": 959.22}
+{"timestamp": "2026-06-01T18:32:22.286188+00:00", "user_id": "usr_0016", "user_city": "Paris", "product_id": "prod_0027", "product_cat": "Livres", "seller_id": "sel_0010", "action_type": "AIME", "price": 1807.53}
+{"timestamp": "2026-06-01T18:32:22.286195+00:00", "user_id": "usr_0042", "user_city": "Lille", "product_id": "prod_0021", "product_cat": "Sport", "seller_id": "sel_0010", "action_type": "AIME", "price": 1167.37}
+{"timestamp": "2026-06-01T18:32:22.286203+00:00", "user_id": "usr_0037", "user_city": "Bordeaux", "product_id": "prod_0023", "product_cat": "Vehicules", "seller_id": "sel_0006", "action_type": "VOUT", "price": 1597.94}

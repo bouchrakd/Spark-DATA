@@ -1,0 +1,10 @@
+{"timestamp": "2026-06-01T18:32:12.281368+00:00", "user_id": "usr_0011", "user_city": "Lille", "product_id": "prod_0026", "product_cat": "Vetements", "seller_id": "sel_0004", "action_type": "AIME", "price": 668.48}
+{"timestamp": "2026-06-01T18:32:12.281503+00:00", "user_id": "usr_0044", "user_city": "Lille", "product_id": "prod_0010", "product_cat": "Meubles", "seller_id": "sel_0009", "action_type": "AIME", "price": 917.46}
+{"timestamp": "2026-06-01T18:32:12.281526+00:00", "user_id": "usr_0046", "user_city": "Marseille", "product_id": "prod_0030", "product_cat": "Sport", "seller_id": "sel_0003", "action_type": "AIME", "price": 1819.71}
+{"timestamp": "2026-06-01T18:32:12.281541+00:00", "user_id": "usr_0008", "user_city": "Marseille", "product_id": "prod_0001", "product_cat": "Vetements", "seller_id": "sel_0001", "action_type": "AIME", "price": 1869.79}
+{"timestamp": "2026-06-01T18:32:12.281556+00:00", "user_id": "usr_0005", "user_city": "Bordeaux", "product_id": "prod_0025", "product_cat": "Telephones", "seller_id": "sel_0008", "action_type": "VOUT", "price": 1115.38}
+{"timestamp": "2026-06-01T18:32:12.281571+00:00", "user_id": "usr_0041", "user_city": "Lyon", "product_id": "prod_0006", "product_cat": "Livres", "seller_id": "sel_0006", "action_type": "AIME", "price": 1209.36}
+{"timestamp": "2026-06-01T18:32:12.281587+00:00", "user_id": "usr_0030", "user_city": "Bordeaux", "product_id": "prod_0017", "product_cat": "Sport", "seller_id": "sel_0004", "action_type": "AIME", "price": 8.28}
+{"timestamp": "2026-06-01T18:32:12.281601+00:00", "user_id": "usr_0044", "user_city": "Paris", "product_id": "prod_0013", "product_cat": "Sport", "seller_id": "sel_0002", "action_type": "VOUT", "price": 1079.85}
+{"timestamp": "2026-06-01T18:32:12.281617+00:00", "user_id": "usr_0003", "user_city": "Toulouse", "product_id": "prod_0008", "product_cat": "Livres", "seller_id": "sel_0009", "action_type": "AIME", "price": 1405.06}
+{"timestamp": "2026-06-01T18:32:12.281632+00:00", "user_id": "usr_0035", "user_city": "Paris", "product_id": "prod_0002", "product_cat": "Livres", "seller_id": "sel_0007", "action_type": "AIME", "price": 349.25}

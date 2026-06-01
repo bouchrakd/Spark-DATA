@@ -1,0 +1,10 @@
+{"timestamp": "2026-06-01T18:32:27.290644+00:00", "user_id": "usr_0005", "user_city": "Cergy", "product_id": "prod_0028", "product_cat": "Vehicules", "seller_id": "sel_0003", "action_type": "AIME", "price": 1537.58}
+{"timestamp": "2026-06-01T18:32:27.290710+00:00", "user_id": "usr_0008", "user_city": "Paris", "product_id": "prod_0004", "product_cat": "Meubles", "seller_id": "sel_0006", "action_type": "ACHAT", "price": 806.04}
+{"timestamp": "2026-06-01T18:32:27.290719+00:00", "user_id": "usr_0032", "user_city": "Cergy", "product_id": "prod_0017", "product_cat": "Telephones", "seller_id": "sel_0003", "action_type": "ACHAT", "price": 46.68}
+{"timestamp": "2026-06-01T18:32:27.290725+00:00", "user_id": "usr_0016", "user_city": "Toulouse", "product_id": "prod_0022", "product_cat": "Vehicules", "seller_id": "sel_0003", "action_type": "AIME", "price": 1057.13}
+{"timestamp": "2026-06-01T18:32:27.290729+00:00", "user_id": "usr_0043", "user_city": "Lyon", "product_id": "prod_0019", "product_cat": "Livres", "seller_id": "sel_0009", "action_type": "AIME", "price": 533.55}
+{"timestamp": "2026-06-01T18:32:27.290733+00:00", "user_id": "usr_0019", "user_city": "Lyon", "product_id": "prod_0014", "product_cat": "Sport", "seller_id": "sel_0010", "action_type": "AIME", "price": 696.42}
+{"timestamp": "2026-06-01T18:32:27.290738+00:00", "user_id": "usr_0042", "user_city": "Lille", "product_id": "prod_0004", "product_cat": "Sport", "seller_id": "sel_0006", "action_type": "AIME", "price": 327.74}
+{"timestamp": "2026-06-01T18:32:27.290741+00:00", "user_id": "usr_0016", "user_city": "Toulouse", "product_id": "prod_0006", "product_cat": "Sport", "seller_id": "sel_0007", "action_type": "AIME", "price": 1032.02}
+{"timestamp": "2026-06-01T18:32:27.290745+00:00", "user_id": "usr_0029", "user_city": "Toulouse", "product_id": "prod_0010", "product_cat": "Vehicules", "seller_id": "sel_0009", "action_type": "AIME", "price": 325.11}
+{"timestamp": "2026-06-01T18:32:27.290750+00:00", "user_id": "usr_0033", "user_city": "Bordeaux", "product_id": "prod_0020", "product_cat": "Sport", "seller_id": "sel_0003", "action_type": "AIME", "price": 58.68}

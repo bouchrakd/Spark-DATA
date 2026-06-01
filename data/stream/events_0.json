@@ -1,0 +1,10 @@
+{"timestamp": "2026-06-01T18:32:07.275712+00:00", "user_id": "usr_0043", "user_city": "Paris", "product_id": "prod_0026", "product_cat": "Vehicules", "seller_id": "sel_0005", "action_type": "VOUT", "price": 638.0}
+{"timestamp": "2026-06-01T18:32:07.275892+00:00", "user_id": "usr_0030", "user_city": "Lyon", "product_id": "prod_0029", "product_cat": "Telephones", "seller_id": "sel_0008", "action_type": "AIME", "price": 1869.66}
+{"timestamp": "2026-06-01T18:32:07.275903+00:00", "user_id": "usr_0049", "user_city": "Paris", "product_id": "prod_0009", "product_cat": "Vetements", "seller_id": "sel_0009", "action_type": "AIME", "price": 1771.22}
+{"timestamp": "2026-06-01T18:32:07.275907+00:00", "user_id": "usr_0024", "user_city": "Marseille", "product_id": "prod_0027", "product_cat": "Telephones", "seller_id": "sel_0005", "action_type": "VOUT", "price": 1755.17}
+{"timestamp": "2026-06-01T18:32:07.275911+00:00", "user_id": "usr_0042", "user_city": "Cergy", "product_id": "prod_0003", "product_cat": "Telephones", "seller_id": "sel_0003", "action_type": "VOUT", "price": 313.33}
+{"timestamp": "2026-06-01T18:32:07.275916+00:00", "user_id": "usr_0049", "user_city": "Lyon", "product_id": "prod_0025", "product_cat": "Vetements", "seller_id": "sel_0001", "action_type": "AIME", "price": 269.09}
+{"timestamp": "2026-06-01T18:32:07.275920+00:00", "user_id": "usr_0034", "user_city": "Toulouse", "product_id": "prod_0019", "product_cat": "Livres", "seller_id": "sel_0010", "action_type": "ACHAT", "price": 1328.18}
+{"timestamp": "2026-06-01T18:32:07.275926+00:00", "user_id": "usr_0029", "user_city": "Paris", "product_id": "prod_0023", "product_cat": "Vehicules", "seller_id": "sel_0004", "action_type": "AIME", "price": 298.44}
+{"timestamp": "2026-06-01T18:32:07.275934+00:00", "user_id": "usr_0045", "user_city": "Cergy", "product_id": "prod_0023", "product_cat": "Vetements", "seller_id": "sel_0005", "action_type": "AIME", "price": 1432.72}
+{"timestamp": "2026-06-01T18:32:07.275940+00:00", "user_id": "usr_0020", "user_city": "Marseille", "product_id": "prod_0011", "product_cat": "Sport", "seller_id": "sel_0002", "action_type": "AIME", "price": 1969.61}

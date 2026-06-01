@@ -1,0 +1,10 @@
+{"timestamp": "2026-06-01T18:32:47.309969+00:00", "user_id": "usr_0040", "user_city": "Lyon", "product_id": "prod_0027", "product_cat": "Telephones", "seller_id": "sel_0008", "action_type": "AIME", "price": 440.66}
+{"timestamp": "2026-06-01T18:32:47.310074+00:00", "user_id": "usr_0025", "user_city": "Lille", "product_id": "prod_0003", "product_cat": "Meubles", "seller_id": "sel_0004", "action_type": "AIME", "price": 796.27}
+{"timestamp": "2026-06-01T18:32:47.310094+00:00", "user_id": "usr_0011", "user_city": "Lyon", "product_id": "prod_0022", "product_cat": "Vetements", "seller_id": "sel_0005", "action_type": "AIME", "price": 1952.03}
+{"timestamp": "2026-06-01T18:32:47.310108+00:00", "user_id": "usr_0032", "user_city": "Cergy", "product_id": "prod_0003", "product_cat": "Vetements", "seller_id": "sel_0010", "action_type": "AIME", "price": 1223.88}
+{"timestamp": "2026-06-01T18:32:47.310122+00:00", "user_id": "usr_0031", "user_city": "Paris", "product_id": "prod_0017", "product_cat": "Telephones", "seller_id": "sel_0001", "action_type": "AIME", "price": 1341.18}
+{"timestamp": "2026-06-01T18:32:47.310136+00:00", "user_id": "usr_0002", "user_city": "Lille", "product_id": "prod_0026", "product_cat": "Sport", "seller_id": "sel_0009", "action_type": "VOUT", "price": 777.87}
+{"timestamp": "2026-06-01T18:32:47.310149+00:00", "user_id": "usr_0034", "user_city": "Paris", "product_id": "prod_0014", "product_cat": "Telephones", "seller_id": "sel_0009", "action_type": "VOUT", "price": 1929.68}
+{"timestamp": "2026-06-01T18:32:47.310163+00:00", "user_id": "usr_0020", "user_city": "Lille", "product_id": "prod_0008", "product_cat": "Livres", "seller_id": "sel_0009", "action_type": "AIME", "price": 1258.42}
+{"timestamp": "2026-06-01T18:32:47.310175+00:00", "user_id": "usr_0017", "user_city": "Toulouse", "product_id": "prod_0025", "product_cat": "Meubles", "seller_id": "sel_0006", "action_type": "AIME", "price": 1840.64}
+{"timestamp": "2026-06-01T18:32:47.310187+00:00", "user_id": "usr_0024", "user_city": "Toulouse", "product_id": "prod_0014", "product_cat": "Vehicules", "seller_id": "sel_0009", "action_type": "AIME", "price": 227.71}
