@@ -1,0 +1,10 @@
+{"src":"usr_0031","dst":"prod_0021","relationship":"ACHAT","timestamp":"2026-06-01T20:33:02.327+02:00"}
+{"src":"usr_0018","dst":"prod_0022","relationship":"VOUT","timestamp":"2026-06-01T20:33:02.327+02:00"}
+{"src":"usr_0037","dst":"prod_0024","relationship":"VOUT","timestamp":"2026-06-01T20:33:02.327+02:00"}
+{"src":"usr_0027","dst":"prod_0017","relationship":"AIME","timestamp":"2026-06-01T20:33:02.327+02:00"}
+{"src":"usr_0014","dst":"prod_0011","relationship":"AIME","timestamp":"2026-06-01T20:33:02.327+02:00"}
+{"src":"usr_0031","dst":"prod_0030","relationship":"AIME","timestamp":"2026-06-01T20:33:02.327+02:00"}
+{"src":"usr_0025","dst":"prod_0016","relationship":"VOUT","timestamp":"2026-06-01T20:33:02.327+02:00"}
+{"src":"usr_0018","dst":"prod_0020","relationship":"VOUT","timestamp":"2026-06-01T20:33:02.327+02:00"}
+{"src":"usr_0036","dst":"prod_0022","relationship":"AIME","timestamp":"2026-06-01T20:33:02.327+02:00"}
+{"src":"usr_0014","dst":"prod_0022","relationship":"AIME","timestamp":"2026-06-01T20:33:02.327+02:00"}
