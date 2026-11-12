@@ -1,4 +1,4 @@
-# ⚡ Spark-DATA — Real-time marketplace analytics with PySpark Structured Streaming
+# Spark-DATA — Real-time marketplace analytics with PySpark Structured Streaming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -6,12 +6,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-2C5BB4?style=flat-square)
 
-> 👥 **Team project (2 students)** — CY Tech, Computer Science engineering programme, 2026.
+> **Team project (2 students)** — CY Tech, Computer Science engineering programme, 2026.
 > Authors: Bouchra Zamoum ([@bouchrakd](https://github.com/bouchrakd)) and [@Hajarachour](https://github.com/Hajarachour).
 
 A small end-to-end **streaming data pipeline** that simulates user activity on a second-hand marketplace (in the style of LeBonCoin), processes it in real time with **PySpark Structured Streaming**, and displays live statistics and an interaction graph in a **Streamlit dashboard**.
 
-## 🧩 Architecture
+## Architecture
 
 ```
 generateur.py ──► data/stream/*.json ──► streaming.py (PySpark) ──► output/stats/  ──┐
@@ -34,7 +34,7 @@ generateur.py ──► data/stream/*.json ──► streaming.py (PySpark) ─�
 
 4. **`rapport.pdf`** — project report.
 
-## 🚀 Run it
+## Run it
 
 ```bash
 pip install pyspark streamlit streamlit-autorefresh pandas networkx matplotlib
@@ -44,6 +44,6 @@ python streaming.py           # terminal 2: start the Spark streaming job
 streamlit run dashboard.py    # terminal 3: open the dashboard
 ```
 
-## 🎓 What this project covers
+## What this project covers
 
 Stream processing · event-time windows and watermarks · schema definition · checkpointing · graph modelling of user interactions · real-time data visualisation.
